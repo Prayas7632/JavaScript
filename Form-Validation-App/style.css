@@ -53,3 +53,9 @@ h1{
     font-size: 9px;
     margin: 10px;
 }
+.form-control.success input{
+    border-color: green;
+}
+.form-control.error input{
+    border-color: red;
+}
